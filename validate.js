@@ -1,3 +1,7 @@
+// Name: Usaamah Amjad
+// StudentID: 104318209
+// Date: 12/09/2021
+// Professor: Navreet lehal
 function validate(event) {
   var ema = document.getElementById("email").value;
   var valid = true;
